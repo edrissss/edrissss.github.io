@@ -1,9 +1,9 @@
 const photos = [
-"https://res.cloudinary.com/derekkedziora/image/upload/v1607159818/About%20Pictures/IMG_1446_vxn0as.jpg", 
-"https://res.cloudinary.com/derekkedziora/image/upload/v1607159821/About%20Pictures/IMG_2329_mh48ew.jpg", 
-"https://res.cloudinary.com/derekkedziora/image/upload/v1607159823/About%20Pictures/IMG_6150_qohadj.jpg",
-"https://res.cloudinary.com/derekkedziora/image/upload/v1607159821/About%20Pictures/IMG_3262_izph3l.jpg",
-"https://res.cloudinary.com/derekkedziora/image/upload/v1607159820/About%20Pictures/IMG_3710_jhezfc.jpg"
+"https://res.cloudinary.com/derekkedziora/image/upload/v1607160963/About%20Pictures/IMG_1446_febpss.jpg", 
+"https://res.cloudinary.com/derekkedziora/image/upload/v1607160963/About%20Pictures/IMG_2329_qi3omz.jpg", 
+"https://res.cloudinary.com/derekkedziora/image/upload/v1607160963/About%20Pictures/IMG_6150_qnfwq1.jpg",
+"https://res.cloudinary.com/derekkedziora/image/upload/v1607160963/About%20Pictures/IMG_3262_ijcnrg.jpg",
+"https://res.cloudinary.com/derekkedziora/image/upload/v1607160964/About%20Pictures/IMG_3710_hwneoe.jpg"
 ]
 
 const captions = [
