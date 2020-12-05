@@ -56,7 +56,7 @@ There's a hack to avoid using these complex modal structures for evidentiality. 
 These show the exact same information as *it must have rained*: you didn't see the rain yourself but are almost certain it rained. 
 
 <figure>
-<img src="/static/posts/2020-05-17/must-have-rained-ngram.png" alt="Must have rained is far more common than using rained with an adverb of probability" loading="lazy">
+<img src="https://res.cloudinary.com/derekkedziora/image/upload/v1607164164/Blog%20Assets/2020-05-17/must-have-rained-ngram_ycrbj6.png" alt="Must have rained is far more common than using rained with an adverb of probability" loading="lazy">
 <figcaption>Modal verbs are still more common [<a href="https://books.google.com/ngrams/graph?content=probably+rained%2Cmust+have+rained%2Ccertainly+rained&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cprobably%20rained%3B%2Cc0%3B.t1%3B%2Cmust%20have%20rained%3B%2Cc0%3B.t1%3B%2Ccertainly%20rained%3B%2Cc0#t1%3B%2Cprobably%20rained%3B%2Cc1%3B.t1%3B%2Cmust%20have%20rained%3B%2Cc1%3B.t1%3B%2Ccertainly%20rained%3B%2Cc1">source</a>]</figcaption>
 </figure>
 
