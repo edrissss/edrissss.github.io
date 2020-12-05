@@ -28,17 +28,17 @@ I buy Kindle books with the expectation that I can read them in peace. The iPad 
 
 This greets me when I open the Kindle app: 
 
-<figure><img loading="lazy" src="/static/posts/2020-08-15/kindle-enable-notifications.jpeg" alt="A nagging modal asking me to turn on notifications"><figcaption>I can't even say no, just not now</figcaption></figure>
+<figure><img loading="lazy" src="https://res.cloudinary.com/derekkedziora/image/upload/v1607162951/Blog%20Assets/2020-08-15/kindle-enable-notifications_e7f7gg.jpg" alt="A nagging modal asking me to turn on notifications"><figcaption>I can't even say no, just not now</figcaption></figure>
 
 These notifications are impossible to disable: 
 
-<figure><img loading="lazy" src="/static/posts/2020-08-15/kindle-in-app-notification.jpeg" alt="Impossible to disable nag to buy a book that I sampled"><figcaption>No…</figcaption></figure> 
+<figure><img loading="lazy" src="https://res.cloudinary.com/derekkedziora/image/upload/v1607162951/Blog%20Assets/2020-08-15/kindle-in-app-notification_fb2b86.jpg" alt="Impossible to disable nag to buy a book that I sampled"><figcaption>No…</figcaption></figure> 
 
 Fair enough. Amazon is a slimy company. Switching to Apple Books should get me out of this, right? 
 
 Not so fast. While the experience is better, the store is never completely out of sight. 
 
-<figure><img loading="lazy" src="/static/posts/2020-08-15/apple-bookstore.png" alt="Apple is always reminding you that books isn't just a reader app"><figcaption>The center tab is always the bookstore</figcaption></figure> 
+<figure><img loading="lazy" src="https://res.cloudinary.com/derekkedziora/image/upload/v1607162952/Blog%20Assets/2020-08-15/apple-bookstore_x0d4vm.png" alt="Apple is always reminding you that books isn't just a reader app"><figcaption>The center tab is always the bookstore</figcaption></figure> 
 
 There's no way to use a reader app that I paid for as just an epub and PDF reader app. Apple's pivot to services is only going to make this worse. 
 
