@@ -7,7 +7,7 @@ permalink: blog/dipibhavan-retreat
 
 After a good retreat at [Suan Mokkh][smr] in 2017, I decided to give their affiliated center on Koh Samui a try this year. [Dipabhāvan][dpb] turned out to be an even nicer place to practice than Suan Mokkh. 
 
-<figure><img src="/static/posts/2018-12-08/retreat-group.jpg" title="Group Picture from Dipabhavan" alt="Group picture after the retreat" loading="lazy" />
+<figure><img src="https://res.cloudinary.com/derekkedziora/image/upload/v1607196510/Blog%20Assets/2018-12-08/retreat-group_jy78tx.jpg" title="Group Picture from Dipabhavan" alt="Group picture after the retreat" loading="lazy" />
 <figcaption>See how happy everyone looks after not talking for 6 days?</figcaption></figure>
 
 ## The rundown 

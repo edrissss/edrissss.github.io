@@ -16,7 +16,7 @@ Having a constant left alignment makes text easier and faster to read since your
 
 Take a look at the preceding paragraph in center alignment. This is harder to read and the jagged left edge makes the page look cluttered. 
 
-<figure><img loading="lazy" src="/static/posts/2018-10-14/centered.png" alt="Center aligned text that is hard to read"></figure>
+<figure><img loading="lazy" src="https://res.cloudinary.com/derekkedziora/image/upload/v1607195861/Blog%20Assets/2018-10-14/centered_qmkvx3.png" alt="Center aligned text that is hard to read"></figure>
 
 Not all centered text is inherently bad. Done properly, a centered title can look striking. If you're going to center a title that has a tagline and a paragraph under it, you have to get creative. 
 
@@ -37,53 +37,45 @@ Another approach is to create a `div` with a fixed width, use `text-align: left;
 
 Bank of America nails it with a centered image over left aligned text: 
 
-<figure><img loading="lazy" alt="Screenshot of Bank of America's website" src="/static/posts/2018-10-14/bofa.png"></figure>
+<figure><img loading="lazy" alt="Screenshot of Bank of America's website" src="https://res.cloudinary.com/derekkedziora/image/upload/v1607195861/Blog%20Assets/2018-10-14/bofa_excxry.png"></figure>
 
 GitHub moves even the image over to the left: 
 
-<figure><img loading="lazy" alt="Screenshot of GitHub's website" src="/static/posts/2018-10-14/github1.png"></figure>
+<figure><img loading="lazy" alt="Screenshot of GitHub's website" src="https://res.cloudinary.com/derekkedziora/image/upload/v1607195861/Blog%20Assets/2018-10-14/github1_rjaxmp.png"></figure>
 
 Microsoft uses images that are the same width as the text: 
 
-<figure><img loading="lazy" alt="Screenshot of Microsofts's website" src="/static/posts/2018-10-14/microsoft.png"></figure>
+<figure><img loading="lazy" alt="Screenshot of Microsofts's website" src="https://res.cloudinary.com/derekkedziora/image/upload/v1607195861/Blog%20Assets/2018-10-14/microsoft_kj8iva.png"></figure>
 
 ## Sites with too much centering 
 
 Trello's a hot mess: 
 
-<figure><img loading="lazy" alt="Screenshot of Trello's website" src="/static/posts/2018-10-14/trello-a.png"></figure>
+<figure><img loading="lazy" alt="Screenshot of Trello's website" src="https://res.cloudinary.com/derekkedziora/image/upload/v1607195861/Blog%20Assets/2018-10-14/trello-a_h4hvsu.png"></figure>
 
 That's four separate alignments for text that is a single unit. 
 
 It's an easy fix, though. Decrease the width of the `div`, align everything to the left and then put the `div` anywhere on the page: 
 
-<figure><img loading="lazy" alt="Trello's website with text left aligned" src="/static/posts/2018-10-14/trello-b.png"></figure>
+<figure><img loading="lazy" alt="Trello's website with text left aligned" src="https://res.cloudinary.com/derekkedziora/image/upload/v1607195861/Blog%20Assets/2018-10-14/trello-b_tgtj3u.png"></figure>
 
-GitHub uses some centered text: 
+Using the same tweaks of narrowing the `div` and aligning everything to the left, you can get a much more readable design that still looks centered in GitHub: 
 
-<figure><img loading="lazy" alt="Screenshot of GitHub's website" src="/static/posts/2018-10-14/github2-a.png"></figure>
+<figure><img loading="lazy" alt="Github's website with text left aligned" src="https://res.cloudinary.com/derekkedziora/image/upload/v1607195860/Blog%20Assets/2018-10-14/github2-b_zhrpuz.png"></figure>
 
-Using the same tweaks of narrowing the `div` and aligning everything to the left, you can get a much more readable design that still looks centered: 
+AWS has long content along with too much spacing between related headings and paragraphs. Left aligning it makes it readable: 
 
-<figure><img loading="lazy" alt="Github's website with text left aligned" src="/static/posts/2018-10-14/github2-b.png"></figure>
-
-AWS has long content along with too much spacing between related headings and paragraphs: 
-
-<figure><img loading="lazy" alt="Screenshot of AWS's website" src="/static/posts/2018-10-14/aws-a.png"></figure>
-
-Tighten up the margins and align to the left:  
-
-<figure><img loading="lazy" alt="Screenshot of AWS's website" src="/static/posts/2018-10-14/aws-b.png"></figure>
+<figure><img loading="lazy" alt="Screenshot of AWS's website" src="https://res.cloudinary.com/derekkedziora/image/upload/v1607195861/Blog%20Assets/2018-10-14/aws-b_qzctvy.png"></figure>
 
 ## Apple is in a class of its own  
 
 Of the major tech companies, Apple takes the prize for hard to read copy. 
 
-<figure><img loading="lazy" alt="Screenshot of Apple's website" src="/static/posts/2018-10-14/apple-a.png"></figure>
+<figure><img loading="lazy" alt="Screenshot of Apple's website" src="https://res.cloudinary.com/derekkedziora/image/upload/v1607195860/Blog%20Assets/2018-10-14/apple-a_ghm8pz.png"></figure>
 
 Even changing the alignment, font size and margins doesn't do that much to improve the readability: 
 
-<figure><img loading="lazy" alt="Apple's website with text left aligned" src="/static/posts/2018-10-14/apple-b.png"></figure>
+<figure><img loading="lazy" alt="Apple's website with text left aligned" src="https://res.cloudinary.com/derekkedziora/image/upload/v1607195860/Blog%20Assets/2018-10-14/apple-b_zuw1fz.png"></figure>
 
 The real problem is content. Maxim Ilyakhov's point that [Apple has terrible copy][acw] is relevant, and he's also right that it doesn't matter. If you have a great product, you can get away with a poorly designed website and awful content. 
 
