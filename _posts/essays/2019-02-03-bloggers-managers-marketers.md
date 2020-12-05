@@ -11,7 +11,7 @@ There's a quiet blogging renaissance that's hitting all the sweet spots of what 
 
 I fondly remember the MySpace era&thinsp;—&thinsp;well before Facebook was a thing. There were all sorts of eclectic and engaging sites that I enjoyed reading. This was a world of amateurs&thinsp;—&thinsp;travel blogs for the fun of it, forums about obscure hobbies and amateur makers. 
 
-<figure><img src="/static/posts/2019-02-03/ye-olde-blogge.png" alt="A screenshot of my first blog" title="My first blog" loading="lazy" />
+<figure><img src="https://res.cloudinary.com/derekkedziora/image/upload/v1607207277/Blog%20Assets/2019-02-03/ye-olde-blogge_bh9jtd.png" alt="A screenshot of my first blog" title="My first blog" loading="lazy" />
 <figcaption>The Kaplak, a blog I started in 2008</figcaption>
 </figure>
 

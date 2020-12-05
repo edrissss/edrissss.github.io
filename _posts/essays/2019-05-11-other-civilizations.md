@@ -7,9 +7,6 @@ permalink: /blog/other-civilizations
 
 A recent visit to the Lowell Observatory in Flagstaff got me thinking about life around the solar system, and there are surprisingly many places that [could support life][csl]. If we eventually find life in a multiple places, that makes it far more probable that biological life is widespread across the universe. This *should* banish our remaining thoughts of anthropocentrism. 
 
-<figure><img src="/static/posts/2019-05-11/boga-net.jpg" alt="Soviet cosmonaut showing there is not God" title="Бога нет!" loading="lazy" />
-<figcaption>A stopped clock…</figcaption></figure>
-
 The narrow meaning of life as something created by the God of Abraham doesn't stand up when we start seeing the emergence of life as a natural feature of our universe. Instead of closing the door on finding meaning, this raises a host of new questions about consciousness and what defines life and cultrure. 
 
 ## Inevitability 

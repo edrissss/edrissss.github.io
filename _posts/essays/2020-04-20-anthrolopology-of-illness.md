@@ -16,7 +16,7 @@ Even though I’ve been living in Eastern Europe for a decade, I’m still miffe
 In practice this means that summer buses are sweltering and nobody will open a window, most buildings are poorly ventilated and finding a table at a restaurant is musical chairs to avoid sitting under the AC.
 
 <figure>
-	<img src="/static/posts/2020-04-20/IMG_1018.JPG" loading="lazy" alt="">  
+	<img src="https://res.cloudinary.com/derekkedziora/image/upload/v1607207548/Blog%20Assets/2020-04-20/IMG_1018_wrdte1.jpg" loading="lazy" alt="An airconditioning vent is mostly covered with tap in order to obstruct air flow">  
 	<figcaption>A common sight in Eastern Europe</figcaption>
 </figure>
 

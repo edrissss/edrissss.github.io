@@ -58,8 +58,8 @@ My compromise is to use Kyiv for written English and [kee-yev] for spoken. I've 
 The English name of for the capital of Ukraine has historically been Kiev.  
 
 <figure>
-	<img loading= "lazy" src="/static/posts/2019-12-25/kyiv-kiev-ngrams.JPG" title="Ngrams" alt="Kiev is clearly the historical winner">
-	<figcaption>Kiev (blue) vs. Kyiv (red) [<a href="https://books.google.com/ngrams/graph?content=Kiev%2C+Kyiv&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2CKiev%3B%2Cc0%3B.t1%3B%2CKyiv%3B%2Cc0#t1%3B%2CKiev%3B%2Cc0%3B.t1%3B%2CKyiv%3B%2Cc0" title="Google Ngrams">source</a>]</figcaption>
+	<img loading= "lazy" src="https://res.cloudinary.com/derekkedziora/image/upload/v1607207948/Blog%20Assets/2019-12-25/kyiv-ngram_omoety.png" title="Ngrams" alt="Kiev is clearly the historical winner">
+	<figcaption>Kiev (blue) vs. Kyiv (red) [<a href="https://books.google.com/ngrams/graph?content=Kiev%2CKyiv&year_start=1900&year_end=2000&corpus=15&smoothing=3" title="Google Ngrams">source</a>]</figcaption>
 </figure>
 
 

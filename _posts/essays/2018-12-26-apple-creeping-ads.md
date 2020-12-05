@@ -9,7 +9,7 @@ I like Apple products, even if I'm not a *bona fide* fanboy. I'm willing to pay 
 
 Lo and behold, look what Apple's doing in iOS's Books App. 
 
-<figure><img src="/static/posts/2018-12-26/apple-books.png" alt="Ads displayed where my books should be" title="Apple Books" loading="lazy" /><figcaption>Windows 10? Kindle? Alas, Apple</figcaption></figure>
+<figure><img src="https://res.cloudinary.com/derekkedziora/image/upload/v1607207167/Blog%20Assets/2018-12-26/apple-books_xdzapk.png" alt="Ads displayed where my books should be" title="Apple Books" loading="lazy" /><figcaption>Windows 10? Kindle? Alas, Apple</figcaption></figure>
 
 When you leave a book that you’re currently reading, by default you're taken to this new 'Reading Now' page, which is essentially an ad platform for buying Apple Books. As far as I can tell, there's no way to override this setting and go straight to your library.  
 

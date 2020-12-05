@@ -7,11 +7,6 @@ permalink: /blog/how-democracies-die
 
 As tempting as it is to get caught up in the daily news cycle, taking a step back for perspective has become increasingly valuable. So I [turned off the news][new] and grabbed a paper copy of [How Democracies Die][hdd]. 
 
-<figure><img loading="lazy" src="/static/posts/2019-02-13/how-democracies-die-book.jpeg" alt="Paper copy of How Democracies Die" title="How Democracies Die"/>
-<figcaption>A paper book in 2019</figcaption>
-</figure>
-
-
 The break from the daily back and forth reinforced how ridiculous American political discourse has become. Unfortunately, the authors only offer uncomfortable conclusions&thinsp;—&thinsp;for instance that US democracy began to erode in tandem with the civil rights movement&thinsp;—&thinsp;and precious little in terms of concrete steps to walk back from precipice. Despite shortcomings of omission, the authors provide a wide historical perspective and enough points to ponder that make the book a worthwhile read for any American worried about saving our democracy.
 
 ## Defining terms

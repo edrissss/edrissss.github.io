@@ -17,17 +17,17 @@ I get it, though. Using global English is safe. You can skip having separate UK 
 
 That said, I stumbled across a gem in the iPad Shortcuts app. The note explaining how the count function works had a bit of fun with the play of words between the verb and the title. 
 
-<figure><img loading="lazy" src="/static/posts/2020-04-04/count-notes-en.jpg" alt="" /></figure>
+<figure><img loading="lazy" src="https://res.cloudinary.com/derekkedziora/image/upload/v1607207451/Blog%20Assets/2020-04-04/count-notes-en_xtcwmc.jpg" alt="" /></figure>
 
 It’s nice to see a serious, power-user oriented app being slightly ridiculous. 
 
 Of course, most languages aren’t going to be able to make the same joke. So I was curious how Apple’s localization team decided to handle it. 
 
-<figure><img loading="lazy" src="/static/posts/2020-04-04/count-notes-ru.jpg" alt="" /></figure>
+<figure><img loading="lazy" src="https://res.cloudinary.com/derekkedziora/image/upload/v1607207451/Blog%20Assets/2020-04-04/count-notes-ru_q1hdyk.jpg" alt="" /></figure>
 
 The Russian version used the space to also make a light-hearted semi joke. Fair enough. 
 
-<figure><img loading="lazy" src="/static/posts/2020-04-04/count-notes-ua.jpg" alt="" /></figure>
+<figure><img loading="lazy" src="https://res.cloudinary.com/derekkedziora/image/upload/v1607207451/Blog%20Assets/2020-04-04/count-notes-ua_xj2fv0.jpg" alt="" /></figure>
 
 Uh-oh. The Ukrainian version is a word-for-word translation from English and makes no sense in Ukrainian. 
 
