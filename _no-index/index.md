@@ -1,5 +1,5 @@
 ---
-title: "The No-Index Index"
+title: "The No-Index Index<span role='img' aria-label='Waving hi!'>&nbsp;👋</span>"
 permalink: /hidden
 nav: main
 ---
