@@ -116,5 +116,5 @@ This works on my [now page](/now).
 
 My [Jekyll demo site](https://demo.derekkedziora.com) has less code, so is easier to copy from. Or have a look at the [source code](https://github.com/derekkedziora/derekkedziora.com) of this site. 
 
-You can always [get in touch](/contact) with me directly with questions or to show me your dynamic now page. 
+You can always [get in touch](/about#contact) with me directly with questions or to show me your dynamic now page. 
 
