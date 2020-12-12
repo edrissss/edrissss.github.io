@@ -285,16 +285,8 @@ figcaption {
 }
 
 .posts-by-tag {
-  display: flex;
-  flex-direction: column;
-  margin-bottom: 100%;
   h2 {
     padding-top: calc(2 * var(--line-height));
-  }
-  a {
-    font-size: var(--body-font-size);
-    margin-bottom: var(--line-height);
-    text-decoration: none;
   }
 }
 
@@ -311,7 +303,9 @@ figcaption {
 }
 
 .internal-link {
-  color: var(--main-text-color);
+  color: var(--light-text-color);
+  font-size: 1rem;
+  text-decoration: none;
 }
 
 a:hover {

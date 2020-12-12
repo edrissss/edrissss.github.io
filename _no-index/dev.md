@@ -1,7 +1,7 @@
 ---
 title: Dev 
 permalink: /dev
-layout: default
+layout: page
 ---
 
 {%- assign sortedTags = site.tags | sort -%}
@@ -18,17 +18,15 @@ layout: default
 
 {% for tag in sortedTags %}
 
-<!--<section class="posts-by-tag">-->
+<section class="posts-by-tag">
 
 <h2 id="{{ tag[0] }}">{{ tag[0] }}</h2>
 
 {% for post in tag[1] %}
 {% include blog-listing.html %}
-
-<!--<a href="{{ post.url }}" title="{{ post.title }}" class="internal-link">{{post.title}}</a>-->
 {% endfor %}
-<a href="#">All Tags &#8593;</a>
-<!--</section>-->
+
+<a href="#" class="internal-link">All Tags &#8593;</a>
 
 {% endfor %}
 
