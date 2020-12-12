@@ -2,6 +2,7 @@
 title: Common Mistakes in English
 description: Some tricky points for Ukrainians learning English
 category: english-guide
+tags: english-guide
 permalink: /english/common-mistakes
 ---
 

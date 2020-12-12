@@ -2,6 +2,7 @@
 title: "Should Have vs. Must Have"
 description: "When using modal verbs it’s important to quickly classify whether you are describing an inference or obligation. They have the same form in the present but differ in the past and future."
 category: english-guide
+tags: english-guide
 permalink: /english/should-have-vs-must-have
 ---
 

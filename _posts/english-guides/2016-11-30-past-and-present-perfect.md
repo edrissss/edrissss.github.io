@@ -2,6 +2,7 @@
 title: Past and Present Perfect
 description: How to use the present and past perfect tenses.
 category: english-guide
+tags: english-guide
 permalink: /english/past-and-present-perfect
 ---
 

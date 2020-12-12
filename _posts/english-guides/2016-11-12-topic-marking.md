@@ -2,6 +2,7 @@
 title: Topic Marking
 description: Sound more natural by not marking the topic of a sentence.
 category: english-guide
+tags: english-guide
 permalink: /english/topic-marking 
 ---
 

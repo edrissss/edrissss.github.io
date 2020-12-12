@@ -2,6 +2,7 @@
 title: Modal Verbs of Probability
 description: It's more natural to use modal verbs to show probability than adverbs
 category: english-guide
+tags: english-guide
 permalink: /english/modal-verbs-probability-inference
 ---
 
