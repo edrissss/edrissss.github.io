@@ -10,7 +10,7 @@ layout: default
 
 {% for tag in sortedTags %}
 
-	<a href="#{{tag[0]}}" class="internal-link">{{ tag[0] }}&nbsp;({{ tag[1] | size }})</a>
+	<a href="#{{tag[0]}}">{{ tag[0] }}&nbsp;({{ tag[1] | size }})</a>
 
 {% endfor %}
 
@@ -18,7 +18,7 @@ layout: default
 
 {% for tag in sortedTags %}
 
-<section class="posts-by-tag">
+<!--<section class="posts-by-tag">-->
 
 <h2 id="{{ tag[0] }}">{{ tag[0] }}</h2>
 
@@ -27,8 +27,8 @@ layout: default
 
 <!--<a href="{{ post.url }}" title="{{ post.title }}" class="internal-link">{{post.title}}</a>-->
 {% endfor %}
-<a href="#" class="internal-link">All Tags &#8593;</a>
-</section>
+<a href="#">All Tags &#8593;</a>
+<!--</section>-->
 
 {% endfor %}
 
