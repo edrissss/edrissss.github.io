@@ -22,6 +22,6 @@ permalink: /blog/tags
 	{% include blog-listing.html %}
 {% endfor %}
 
-<a href="#" class="internal-link">All Tags &#8593;</a>
+<p><a href="#" class="internal-link">All Tags &#8593;</a></p>
 
 {% endfor %}
