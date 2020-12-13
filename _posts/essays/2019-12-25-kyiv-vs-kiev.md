@@ -1,6 +1,7 @@
 ---
 title: "K--v is the Capital of Ukraine"
-tags: storytelling ukraine
+description: "Even though Kiev still hangs on, most Ukrainians prefer Kyiv. But, it’s also not something to take too seriously."
+tags: ukraine
 date: "2019-12-25 17:45"
 permalink: /blog/kyiv-vs-kiev
 --- 
