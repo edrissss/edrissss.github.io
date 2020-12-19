@@ -3,6 +3,7 @@ title: "Hey, I’m Derek&nbsp;🖖"
 og-type: website
 layout: index
 nav: main
+index: true
 ---
 
 I'm a content designer and UX writer based in Kyiv, Ukraine. 
