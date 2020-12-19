@@ -6,19 +6,17 @@ permalink: /about
 nav: about
 --- 
 
-<figure class="about-picture"><img alt="" title="Derek Kedziora" id="aboutImg" ><figcaption id="aboutImgCaption"></figcaption>
+<figure class="about-picture"><img src="" alt="" title="Derek Kedziora" id="aboutImg"><figcaption id="aboutImgCaption"></figcaption>
 </figure>
 
 <noscript>
-<figure class="about-picture"><img src="https://lh3.googleusercontent.com/HAmfKhDjoR0_ERjIZx_o26sELzAC_E2eoLDW5krAKOgnq9C_CCGTaAzhr1xzXb4wexaIFb8hscrX1jwyiqGQtaIm8xgGEiLYYTl1KiGvt6nxm-53ke16sx_2BJtxctgDPBMR0lTgACsneH_hiGYjlOgoJU9i5VmkW-izr2-E01sAqXpbXejM4LkOya-U6ix9uwjFwuiCebDP4mHDH6por52FFqcvNvlCzKNySMf0WQIp-v-GGH9dTFwiWTKvzKk9bXBiGNjwA547jyyPf0TUt9Y4a85i_-Kt3OHBxY31PIMemeuAEY3yujCfdCaApSK48SVBB9ejX9_KhXIKP21mVIEIfOmJSeu8eAHobFZnjMUUfgjPoDL05QhDj9AZQIa-8fo4RFVq0cvGCYv8oKONczZ4LKZ0VAHRHW3F5Rjl9LhApNAnrNvRfbI2pGUjtMlLrMfzMJ2fIMj3mbcqNabp2mgspJ90wETqVMASGTPLNGT2UYGXC_fELk6daf9GIQMGEWlVZHBgn6mNR_7FaTiRF3ottLpNcpaOqDjzyx3DchBllUw33rTldwv2aVm26oOQeEPUh4Yj7JnqGUU3NVNU4uatrzU-wujdRAE9KvJ6rOvDiurIRnvtfRDEmeueRVSHsETaQlrp3Dc7hHKBEmpOGdFf4sqJ_xSDpeqSxK1WR8bKloVF0i4VltnKngpUpCmBB5quqavTu6Q-kIUaL7B1coy4e4_Vx59NwctBoXnF5akG9nSZw1xUBRQi=w587-h795-no?authuser=0" alt="" title="Derek Kedziora">
+<figure class="about-picture"><img src="https://res.cloudinary.com/derekkedziora/image/upload/v1607160963/About%20Pictures/IMG_1446_febpss.jpg" alt="" title="Derek Kedziora">
 <figcaption>That’s me</figcaption></figure>
 </noscript>
 
 I'm a writer in tech: everything from content strategy, UX writing, marketing and documentation. In a past life I was English teacher. 
 
 I grew up in Phoenix, Arizona but have spent most of my adult life in Kyiv, Ukraine (long story). Along the way I've lived in Kyrgyzstan, China and Saudi Arabia (even longer story). 
-
-I like reading books about digital minimalism on my iPad and scouring Twitter for productivity hacks when I have things to do. 
 
 ## Contact 
 
@@ -40,4 +38,25 @@ My goals are speed, simplicity and longevity. Thus, my site is static HTML, CSS 
 
 Matthew Butterick's [Practical Typography](https://practicaltypography.com) has heavily influence how I designed my site. 
 
-<script src="/static/aboutImgChanger.js"></script>
+<script>
+const photos = [
+"https://res.cloudinary.com/derekkedziora/image/upload/v1607160963/About%20Pictures/IMG_1446_febpss.jpg", 
+"https://res.cloudinary.com/derekkedziora/image/upload/v1607160963/About%20Pictures/IMG_2329_qi3omz.jpg", 
+"https://res.cloudinary.com/derekkedziora/image/upload/v1607160963/About%20Pictures/IMG_6150_qnfwq1.jpg",
+"https://res.cloudinary.com/derekkedziora/image/upload/v1607160963/About%20Pictures/IMG_3262_ijcnrg.jpg",
+"https://res.cloudinary.com/derekkedziora/image/upload/v1607160964/About%20Pictures/IMG_3710_hwneoe.jpg"
+]
+
+const captions = [
+"That’s me",
+"Looking fancy",
+"An office smile",
+"The Pub Quiz Master",
+"I’m owned by a cat"
+]
+
+const selectedPhoto = Math.floor(Math.random() * photos.length)
+
+document.getElementById("aboutImg").setAttribute("src", photos[selectedPhoto]);
+document.getElementById("aboutImgCaption").innerHTML = captions[selectedPhoto];
+</script>
