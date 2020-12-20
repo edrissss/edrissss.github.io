@@ -1,5 +1,5 @@
 ---
-title: "Hey there, I’m Derek&nbsp;👋"
+title: "Hey there, I’m Derek"
 og-type: website
 layout: index
 nav: main
