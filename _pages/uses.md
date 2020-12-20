@@ -4,34 +4,30 @@ description: "The gadgets and stuff that I use and are worth sharing."
 permalink: /uses
 --- 
 
-**Ad Blocker**: [Better Blocker](https://better.fyi) is perfectly lightweight and works like a charm.
+I’m an Apple fan and my productivity is deeply integrated with the ecosystem. With Shortcuts, I can automate a lot of tasks and get apps to work with each other. Handoff, a shared clipboard and using my iPad as a second display for my Mac are all daily parts of my workflow.  
 
-**Markdown Editor**: [iA Writer](https://ia.net/writer). Works great on the iPad (where I do most of my writing), retains a minimal, uncluttered feel while being fully featured. 
+## Hardware 
 
-**Music**: [Bandcamp](https://bandcamp.com). I prefer to buy and build my own library instead of streaming.
+The new M1 MacBook Air is the laptop I’ve wanted for years. Light enough to go everywhere, great keyboard, powerful enough for everything I do and endless battery.  
 
-**Read-it-Later**: [GoodLinks](https://goodlinks.app). Still needs some polish, but a solid app that syncs over iCloud. 
+I love iPads for reading and light productivity, but I’m having a Goldilocks dilemna. My 3rd generation Air is nice, but not great if I need to hold it for hours while I’m reading a book. The current mini is too small, text is hard to read and most websites still fetch the mobile versions. I’m hoping the rumored mini refresh in 2021 hits the sweet spot. 
 
-**Reddit**: [Apollo](https://apolloapp.io) on mobile, [old.reddit.com](https://old.reddit.com) on desktop. Reddit could really be a case study in how a redesign ruined a product.  
+Since I’m not much of a photographer, I’m happy with my iPhone XR.
 
-**RSS**: [News Explorer](https://betamagic.nl/products/newsexplorer.html). Great UI and syncs using iCloud. 
+The Apple Watch is more a toy than anything else. I don’t think I’d get another one. 
 
-**Screensharing Protector**: [Muzzle](https://muzzleapp.com). Automatically turns off notifications whenever you share your screen.
+## Apps 
 
-**Window Manager**: [Magnet](https://magnet.crowdcafe.com). Does exactly what I need with great keyboard shortcuts. 
+I do most of my writing in **[iA Writer](https://ia.net/writer)**. Great on my computer, tablet and phone. 
 
-## iPad
+**[Things](https://culturedcode.com/things/)** is how I organize information rather than a task manager for me.  
 
-I have a love-hate relationship with the iPad. There's something beautiful about it, but then there are so many rough edges in the software. I find that treating the iPad as a tablet rather than a laptop replacement has greatly improved my relationship with my iPad. 
+Much of what I read online is via RSS. To sync my feeds and use a quick read-it-later service, I use **[Reeder](https://reeder.app)**. For long-term bookmark storage and organization, I use **[GoodLinks](https://goodlinks.app)**.
 
-Things that need a lot of screen space are best left to a computer. Anything where you have run a local server is better on a laptop. Otherwise, I use my iPad for about 90% of my personal computing needs. 
+It’s maddening that Macs don’t have native window management: **[Magnet](https://magnet.crowdcafe.com)** to the rescue. 
 
-Besides the apps that I share with my work Mac, here's what I find indispensable for my iPad and iPhone: 
+**[Muzzle](https://muzzleapp.com)** automatically turns off notifications when you screenshare. It’s a must in our overly Zoomed era. 
 
-[**Textastic**](https://www.textasticapp.com) works for light coding.
+**[Working Copy](https://workingcopy.app)** is my git client of choice. Looking forward to the upcoming Mac release.
 
-[**Working Copy**](https://workingcopyapp.com) is the git client that lets me write and publish most of the content for this site on my iPad and occasionally phone.
-
-Along with iA Writer, News Explorer and Goodlinks, these make my iPad a powerful device for reading and writing. 
-
-I'm also a Shortcuts power user. The key to the iPad, iPhone and Watch is digging into Shortcuts and Siri to make some awesome and personalized flows.
+The internet is unusable with an ad blocker such as **[Better Blocker](https://better.fyi)**.
