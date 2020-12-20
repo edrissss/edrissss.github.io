@@ -2,7 +2,7 @@
 title: The Tyranny of Libertarianism
 description: "Despite the allure that sophists shroud libertarianism and technoliberatarianism in, both systems are a form tyranny. The problem is straightforward: libertarianism is a lofty ideal on paper but catastrophic when practiced at scale. The best antidote to the tyranny of libertarianism is to be human, trust people and build communities."
 tags: hype politics tech
-permalink: /blog/spiritual-frameworks
+permalink: /blog/tyranny-of-libertarianism
 ---
 
 Despite the allure that sophists shroud libertarianism and technoliberatarianism in, both systems are a form of tyranny. The problem is straightforward: libertarianism is a lofty ideal on paper but catastrophic when practiced at scale. Ironically, this is no different from the shortcomings, so often lambasted by libertarians, of communism.
