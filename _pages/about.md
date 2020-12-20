@@ -14,27 +14,29 @@ nav: about
 <figcaption>That’s me</figcaption></figure>
 </noscript>
 
-I'm a writer in tech: everything from content strategy, UX writing, marketing and documentation. In a past life I was English teacher. 
+I’m a writer in tech: everything from UX writing, content strategy, marketing and documentation. Before that, I was English teacher. 
 
-I grew up in Phoenix, Arizona but have spent most of my adult life in Kyiv, Ukraine (long story). Along the way I've lived in Kyrgyzstan, China and Saudi Arabia (even longer story). 
+🤓&emsp;Geek<br>
+🐈&emsp;Cat lover<br>
+🚲&emsp;Cyclist<br> 
+📚&emsp;Bookworm<br>
+🧘&emsp;Meditator<br> 
+🇺🇸&emsp;From the US<br>
+🇺🇦&emsp;Live in Ukraine 
 
 ## Contact 
 
-Getting emails is one of my favorite parts of running this site, and is the best way to contact me: **{{ site.email }}**
+📫&emsp;{{ site.email }}
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/derekkedziora/), [Twitter](https://twitter.com/derekkedziora) and [GitHub](https://github.com/derekkedziora).
+👀&emsp;[RSS](/feed.xml) is best for updates.
 
-The best way to follow me is [RSS](/feed.xml).
+💬&emsp;You can find me on [LinkedIn](https://www.linkedin.com/in/derekkedziora/) and [GitHub](https://github.com/derekkedziora). 
 
 ## Colophon 
 
 This is a [small b blog](https://tomcritchlow.com/2018/02/23/small-b-blogging/). It's meant to be lighthearted, rough around the edges and an ongoing work in progress. 
 
-I use [Jekyll](https://jekyllrb.com) to build a static site that's served over [GitHub Pages](https://pages.github.com).
-
-View the [source code on GitHub](https://github.com/derekkedziora/derekkedziora.com) and [local change log](/change-log).
-
-My goals are speed, simplicity and longevity. Thus, everything is static HTML and CSS with a few JavaScript enhancements. [It's designed to last](https://jeffhuang.com/designed_to_last/).
+I use [Jekyll](https://jekyllrb.com) to build a static site. View the [source code on GitHub](https://github.com/derekkedziora/derekkedziora.com) and [local change log](/change-log).
 
 Matthew Butterick's [Practical Typography](https://practicaltypography.com) has heavily influenced my layout and typography choices. 
 

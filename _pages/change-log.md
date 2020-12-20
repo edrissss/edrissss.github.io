@@ -14,7 +14,11 @@ I'm constantly tweaking and changing things here. In the spirit of an open redes
 
 ## Change Log 
 
-### 2020.11
+### 2020.12.20
+
+Updated the content on the home and about changes. 
+
+### 2020.11.22
 
 - Added new images and captions to the about page. Now one image is randomly selected on each page load. 
 
