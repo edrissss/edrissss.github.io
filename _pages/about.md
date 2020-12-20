@@ -28,15 +28,15 @@ The best way to follow me is [RSS](/feed.xml).
 
 ## Colophon 
 
-This is a [small b blog](https://tomcritchlow.com/2018/02/23/small-b-blogging/). It's meant to be lighthearted, rough around the edges and a constant work in progress. 
+This is a [small b blog](https://tomcritchlow.com/2018/02/23/small-b-blogging/). It's meant to be lighthearted, rough around the edges and an ongoing work in progress. 
 
 I use [Jekyll](https://jekyllrb.com) to build a static site that's served over [GitHub Pages](https://pages.github.com).
 
 View the [source code on GitHub](https://github.com/derekkedziora/derekkedziora.com) and [local change log](/change-log).
 
-My goals are speed, simplicity and longevity. Thus, my site is static HTML, CSS and a few JavaScript enhancements. [It's designed to last](https://jeffhuang.com/designed_to_last/).
+My goals are speed, simplicity and longevity. Thus, everything is static HTML and CSS with a few JavaScript enhancements. [It's designed to last](https://jeffhuang.com/designed_to_last/).
 
-Matthew Butterick's [Practical Typography](https://practicaltypography.com) has heavily influence how I designed my site. 
+Matthew Butterick's [Practical Typography](https://practicaltypography.com) has heavily influenced my layout and typography choices. 
 
 <script>
 const photos = [
