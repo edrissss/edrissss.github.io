@@ -16,7 +16,7 @@ I'm constantly tweaking and changing things here. In the spirit of an open redes
 
 ### 2020.12.20
 
-Updated the content on my home, about and uses changes. 
+Updated the content on my home, about and uses pages. 
 
 ### 2020.11.22
 

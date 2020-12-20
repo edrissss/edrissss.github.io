@@ -1,7 +1,7 @@
 ---
 title: Links
 description: "A blogroll for the modern internet"
-permalink: /links
+permalink: /links-old
 ---
 
 <style> 
