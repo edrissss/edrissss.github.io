@@ -248,8 +248,6 @@ figcaption {
 }
 
 .blog-listing-link {
-  //color: var(--main-text-color);
-  //font-weight: bold;
   text-decoration: none;
 }
 
@@ -362,5 +360,5 @@ nav a {
 .about-picture {
   float: right; 
   margin: 0 0 5% 5%; 
-  width: clamp(25%, 50%, 450px);
+  width: clamp(25%, 50%, 350px);
 } 

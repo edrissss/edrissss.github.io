@@ -10,7 +10,7 @@ nav: about
 </figure>
 
 <noscript>
-<figure class="about-picture"><img src="https://res.cloudinary.com/derekkedziora/image/upload/v1607160963/About%20Pictures/IMG_1446_febpss.jpg" alt="" title="Derek Kedziora">
+<figure class="about-picture"><img src="https://res.cloudinary.com/derekkedziora/image/upload/v1608450899/About%20Pictures/IMG_1446_tntx9d.jpg" alt="" title="Derek Kedziora">
 <figcaption>That’s me</figcaption></figure>
 </noscript>
 
@@ -40,11 +40,11 @@ Matthew Butterick's [Practical Typography](https://practicaltypography.com) has 
 
 <script>
 const photos = [
-"https://res.cloudinary.com/derekkedziora/image/upload/v1607160963/About%20Pictures/IMG_1446_febpss.jpg", 
-"https://res.cloudinary.com/derekkedziora/image/upload/v1607160963/About%20Pictures/IMG_2329_qi3omz.jpg", 
-"https://res.cloudinary.com/derekkedziora/image/upload/v1607160963/About%20Pictures/IMG_6150_qnfwq1.jpg",
-"https://res.cloudinary.com/derekkedziora/image/upload/v1607160963/About%20Pictures/IMG_3262_ijcnrg.jpg",
-"https://res.cloudinary.com/derekkedziora/image/upload/v1607160964/About%20Pictures/IMG_3710_hwneoe.jpg"
+"https://res.cloudinary.com/derekkedziora/image/upload/v1608450899/About%20Pictures/IMG_1446_tntx9d.jpg", 
+"https://res.cloudinary.com/derekkedziora/image/upload/v1608450900/About%20Pictures/IMG_2329_rg0ksb.jpg", 
+"https://res.cloudinary.com/derekkedziora/image/upload/v1608450900/About%20Pictures/IMG_6150_x35wgz.jpg",
+"https://res.cloudinary.com/derekkedziora/image/upload/v1608450899/About%20Pictures/IMG_3262_jknlr6.jpg",
+"https://res.cloudinary.com/derekkedziora/image/upload/v1608450900/About%20Pictures/IMG_3710_xj0rkf.jpg"
 ]
 
 const captions = [
