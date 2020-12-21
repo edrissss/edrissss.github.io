@@ -14,6 +14,7 @@ $text-width: 40.5em; // 650px
 }
 
 html {
+  direction:rtl;
   --box-background-color: hsl(240, 9%, 96%);
   --extra-light-text-color: hsl(240, 1%, 45%);
   --light-border-color: hsl(0, 0%, 90%);
