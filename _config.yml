@@ -1,13 +1,13 @@
-title: "Derek Kedziora" 
-author: Derek Kedziora
-email: "hello@derekkedziora.com"
-description: "Derek Kedziora's person site"
+title: "ادریس میرویسی" 
+author: ادریس میرویسی
+email: "edris.mirveysi@gmail.com"
+description: "وبلاگ شخصی ادریس میرویسی"
 github: derekkedziora
 highlighter: rouge
 markdown: kramdown
 parse_block_html: false
-url: https://derekkedziora.com
-permalink: blog/:title
+url: http://edrism.ir
+permalink: :title
 show_drafts: true
 defaults:
   -
