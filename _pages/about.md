@@ -27,5 +27,5 @@ nav: about
 ## تماس با من 
 
 📫&emsp;{{ site.email }}  
-🐥&emsp;[twitter](https://twitter.com/edrism_ir)
-📱&emsp;[telegram](https://t.me/edrismir)
+🐥&emsp;[twitter](https://twitter.com/edrism_ir)  
+📱&emsp;[telegram](https://t.me/edrismir)  
