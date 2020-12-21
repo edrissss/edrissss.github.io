@@ -1,64 +1,31 @@
 ---
-title: About Me
-description: "Derek Kedziora is a UX writer, content strategist, geek, tinkerer and avid reader."   
+title: درباره‌ی من
+description: "ادریس میرویسی. قبلا دیجیتال‌مارکتر، الان دیتا آنالیست، در تلاش برای تبدیل وسواس به ارزش."   
 about: true
 permalink: /about
 nav: about
 --- 
 
-<figure class="about-picture"><img src="" alt="" title="Derek Kedziora" id="aboutImg"><figcaption id="aboutImgCaption"></figcaption>
-</figure>
+ادریس میرویسی هستم.
 
-<noscript>
-<figure class="about-picture"><img src="https://res.cloudinary.com/derekkedziora/image/upload/v1608450899/About%20Pictures/IMG_1446_tntx9d.jpg" alt="" title="Derek Kedziora">
-<figcaption>That’s me</figcaption></figure>
-</noscript>
+فکر کردن رو دوست دارم.  
+آدم‌ها رو هم خیلی دوست دارم، هرچند همیشه تنهایی رو ترجیح می‌دم!   
+وقتی که جوون‌تر بودم می‌خواستم دنیا رو نجات بدم. می‌خواستم پیامبر بشم.  
+الان در آستانه‌ی سی سالگی دارم تلاش می‌کنم با پول درآوردن آزادی شخصیم رو به دست بیارم. (و البته هنوز از مبعوث شدن مایوس نشدم.)  
 
-I’m a writer in tech: everything from UX writing, content strategy, marketing and documentation. Before that, I was English teacher. 
+بعد از دانشگاه چند سالی ریاضی درس می‌دادم.  
+سال‌های بعدش در زمینه‌ی محتوا و دیجیتال‌مارکتینگ کار می‌کردم.  
+و این روزها دارم سعی می‌کنم با کمک تحلیل داده به کسب و کارها کمک کنم.
 
-🤓&emsp;Geek<br>
-🐈&emsp;Cat lover<br>
-🚲&emsp;Cyclist<br> 
-📚&emsp;Bookworm<br>
-🧘&emsp;Meditator<br> 
-🇺🇸&emsp;From the US<br>
-🇺🇦&emsp;Live in Ukraine 
+به خاطر وسواس فکریم می‌تونم شرط ببندم که توی دقت به جزئیات از تو (و تقریبا تمام کسایی که می‌شناسی) بهتر هستم. :)  
+از زمانی که خودم رو شناختم با این همراه همیشگی در حال دوستی و جنگ بودم. بزرگترین نقاط ضعف و قوتم رو ناشی از همین خصوصیتم می‌دونم.  
 
-## Contact 
+در حال حاضر مشهد زندگی می‌کنم. با همسر و پسر ۱۸ ماهه‌م.
 
-📫&emsp;{{ site.email }}
+اینجا قراره نوشته‌هایی که از توییترم سرریز می‌شن رو قرار بدم.
 
-👀&emsp;[RSS](/feed.xml) is best for updates.
+## تماس با من 
 
-💬&emsp;You can find me on [LinkedIn](https://www.linkedin.com/in/derekkedziora/) and [GitHub](https://github.com/derekkedziora). 
-
-## Colophon 
-
-This is a [small b blog](https://tomcritchlow.com/2018/02/23/small-b-blogging/). It's meant to be lighthearted, rough around the edges and an ongoing work in progress. 
-
-I use [Jekyll](https://jekyllrb.com) to build a static site. View the [source code on GitHub](https://github.com/derekkedziora/derekkedziora.com) and [local change log](/change-log).
-
-Matthew Butterick's [Practical Typography](https://practicaltypography.com) has heavily influenced my layout and typography choices. 
-
-<script>
-const photos = [
-"https://res.cloudinary.com/derekkedziora/image/upload/v1608450899/About%20Pictures/IMG_1446_tntx9d.jpg", 
-"https://res.cloudinary.com/derekkedziora/image/upload/v1608450900/About%20Pictures/IMG_2329_rg0ksb.jpg", 
-"https://res.cloudinary.com/derekkedziora/image/upload/v1608450900/About%20Pictures/IMG_6150_x35wgz.jpg",
-"https://res.cloudinary.com/derekkedziora/image/upload/v1608450899/About%20Pictures/IMG_3262_jknlr6.jpg",
-"https://res.cloudinary.com/derekkedziora/image/upload/v1608450900/About%20Pictures/IMG_3710_xj0rkf.jpg"
-]
-
-const captions = [
-"That’s me",
-"Looking fancy",
-"An office smile",
-"The Pub Quiz Master",
-"I’m owned by a cat"
-]
-
-const selectedPhoto = Math.floor(Math.random() * photos.length)
-
-document.getElementById("aboutImg").setAttribute("src", photos[selectedPhoto]);
-document.getElementById("aboutImgCaption").innerHTML = captions[selectedPhoto];
-</script>
+📫&emsp;{{ site.email }}  
+🐥&emsp;[twitter](https://twitter.com/edrism_ir)
+📱&emsp;[telegram](https://t.me/edrismir)
