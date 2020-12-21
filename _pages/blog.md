@@ -1,6 +1,6 @@
 ---
-title: Blog Posts
-description: "The list of all of my blog posts."
+title: پست‌های وبلاگ
+description: "لیست نوشته‌های من"
 og-type: website
 permalink: /blog
 nav: blog
