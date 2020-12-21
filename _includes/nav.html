@@ -1,15 +1,3 @@
-{%- if page.nav == "about" -%}
-{%- unless page.url == "/about" -%}<a href="/about" title="About">About</a>{%- endunless -%}
-<a href="/now" title="Now Page">Now</a>
-{%- unless page.url == "/uses" -%}<a href="/uses" title="What I Use">Uses</a>{%- endunless -%}
-{%- unless page.url == "/portfolio" -%}<a href="/portfolio" title="Portfolio">Portfolio</a>{%- endunless -%}
-{%- endif -%}
-
-{%- if page.nav == "portfolio" -%}
-<a href="/" title="Derek Kedziora" rel="author" class="author-link">Derek Kedziora</a>
-<a href="/cv" title="My CV">Résumé</a>
-{%- endif -%}
-
 {%- if page.nav == "blog" -%}
 <a href="/blog/tags" title="Tags">Tags</a>
 <a href="/blog/random" title="Random Post">Random Post</a>
