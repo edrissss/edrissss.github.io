@@ -1,16 +1,16 @@
 ---
-title: "Hey there, I’m Derek"
+title: "ادریس میرویسی"
 og-type: website
 layout: index
 nav: main
 index: true
 ---
 
-✏️&emsp;I'm a UX writer and content strategist based in Kyiv, Ukraine.
+سلام. ادریس هستم. ☺
 
-🤓&emsp;My site is an ongoing experiment in small scale blogging. Besides the tech industry, I write about books, philosophy, linguistics or anything that's on my mind.
+به خونه‌ی دیجیتالی من خوش اومدی.
 
-🖥&emsp;Want to see my professional writing? Check out my [portfolio](/portfolio).
-
-🗣&emsp;Learning English? Head over to my [English guides](/english).
-
+راستش اینجا رو تازه راه انداختم، اگه می‌خوای چیزی ازم بخونی اینجاها رو پیشنهاد می‌کنم:
+[ویرگول](https://virgool.io/@edrism)
+[توییتر](https://twitter.com/edrism_ir)
+[کانال تلگرام](https://t.me/edrism_ir)
