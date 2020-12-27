@@ -1,9 +1,75 @@
 ---
 ---
 
-$body-typeface: IRANSans, Sahel, "Iowan Old Style", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", serif;
-$heading-typeface: IRANSans, Sahel, "Helvetica Neue", Helvetica, Arial, sans-serif;
-$mono-typeface: IRANSans, Sahel, Menlo, Monaco, monospace;
+@font-face {
+  font-family: Vazir;
+  src: url('Vazir-Regular.eot');
+  src: url('Vazir-Regular.eot?#iefix') format('embedded-opentype'),
+       url('Vazir-Regular.woff2') format('woff2'),
+       url('Vazir-Regular.woff') format('woff'),
+       url('Vazir-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-display:swap;
+}
+
+@font-face {
+  font-family: Vazir;
+  src: url('Vazir-Bold.eot');
+  src: url('Vazir-Bold.eot?#iefix') format('embedded-opentype'),
+       url('Vazir-Bold.woff2') format('woff2'),
+       url('Vazir-Bold.woff') format('woff'),
+       url('Vazir-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-display:swap;
+}
+
+@font-face {
+  font-family: Vazir;
+  src: url('Vazir-Thin.eot');
+  src: url('Vazir-Thin.eot?#iefix') format('embedded-opentype'),
+       url('Vazir-Thin.woff2') format('woff2'),
+       url('Vazir-Thin.woff') format('woff'),
+       url('Vazir-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-display:swap;
+}
+
+@font-face {
+  font-family: Vazir;
+  src: url('Vazir-Light.eot');
+  src: url('Vazir-Light.eot?#iefix') format('embedded-opentype'),
+       url('Vazir-Light.woff2') format('woff2'),
+       url('Vazir-Light.woff') format('woff'),
+       url('Vazir-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-display:swap;
+}
+
+@font-face {
+  font-family: Vazir;
+  src: url('Vazir-Medium.eot');
+  src: url('Vazir-Medium.eot?#iefix') format('embedded-opentype'),
+       url('Vazir-Medium.woff2') format('woff2'),
+       url('Vazir-Medium.woff') format('woff'),
+       url('Vazir-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-display:swap;
+}
+
+@font-face {
+  font-family: Vazir;
+  src: url('Vazir-Black.eot');
+  src: url('Vazir-Black.eot?#iefix') format('embedded-opentype'),
+       url('Vazir-Black.woff2') format('woff2'),
+       url('Vazir-Black.woff') format('woff'),
+       url('Vazir-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-display:swap;
+}
+
+$body-typeface: vazir, "Iowan Old Style", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", serif;
+$heading-typeface: vazir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$mono-typeface: vazir, Menlo, Monaco, monospace;
 $text-width: 40.5em; // 650px
 
 :root {
