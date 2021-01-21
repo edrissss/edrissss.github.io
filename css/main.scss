@@ -255,8 +255,9 @@ time {
 
 a {
   color: var(--main-text-color);
-  text-decoration-color: var(--light-text-color);
-  text-decoration-thickness: 1px;
+  text-decoration: none;
+  //text-decoration-color: var(--light-text-color);
+  //text-decoration-thickness: 1px;
 }
 
 pre {
