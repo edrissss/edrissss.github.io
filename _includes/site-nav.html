@@ -1,13 +1,12 @@
 <nav class="site-nav">
   
-<div class="right-nav-links" dir="ltr">
-  
 {% if page.url == "/" %}
-<span class="nav-current-page">خانه</span>
+<span class="home-link"></span>
 {% else %}
-<a href="/" title="Home">خانه</a>
+<a href="/" rel="author">ادریس میرویسی</a>
 {% endif %}
 
+<div class="right-nav-links">
 {% if page.url == "/about" %}
 <span class="nav-current-page" style="margin: 0 1.75em; 0 0;">درباره</span>
 {% else %}
@@ -19,7 +18,6 @@
 {% else %}
 <a href="/blog" title="Blog">بلاگ</a>
 {% endif %}
-  
 </div>
 
 </nav>
