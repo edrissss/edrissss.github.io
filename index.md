@@ -4,11 +4,10 @@ og-type: website
 layout: index
 nav: main
 index: true
----
-
-[درباره‌ی اینجا](/about)  
+--- 
 
 سلام.  
 ===  
+(اگه اولین باره اینجایی: [درباره‌ی اینجا](/about))  
 تست.  
 س
