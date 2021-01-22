@@ -1,20 +1,28 @@
 <footer>
-	<!-- <a href="/">خانه</a>
-	//<a href="/about">درباره</a>
-	//<a href="/blog">بلاگ</a> -->
 	
-	{% if page.url == "/about" %}
-	<span class="nav-current-page" style="margin: 0 1.75em; 0 0;">درباره</span>
-	{% else %}
-	<a href="/about" title="About" style="margin: 0 1.75em; 0 0;">درباره</a>
-	{% endif %}
-	
-	{% if page.url == "/blog" %}
-	<span class="nav-current-page" >بلاگ</span>
-	{% else %}
-	<a href="/blog" title="Blog">بلاگ</a>
-	{% endif %}
-	
+<nav class="site-nav">
+  
+{% if page.url == "/" %}
+<span class="home-link"></span>
+{% else %}
+<a href="/" rel="author">خانه</a>
+{% endif %}
+
+<div class="right-nav-links">
+{% if page.url == "/about" %}
+<span class="nav-current-page" style="margin: 0 1.75em; 0 0;">درباره</span>
+{% else %}
+<a href="/about" title="About" style="margin: 0 1.75em; 0 0;">درباره</a>
+{% endif %}
+
+{% if page.url == "/blog" %}
+<span class="nav-current-page" >بلاگ</span>
+{% else %}
+<a href="/blog" title="Blog">بلاگ</a>
+{% endif %}
+</div>
+
+</nav>
 	
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-36422115-2"></script>
