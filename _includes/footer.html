@@ -1,7 +1,19 @@
 <footer>
-	<a href="/">خانه</a>
-	<a href="/about">درباره</a>
-	<a href="/blog">بلاگ</a>
+	//<a href="/">خانه</a>
+	//<a href="/about">درباره</a>
+	//<a href="/blog">بلاگ</a>
+	
+	{% if page.url == "/about" %}
+	<span class="nav-current-page" style="margin: 0 1.75em; 0 0;">درباره</span>
+	{% else %}
+	<a href="/about" title="About" style="margin: 0 1.75em; 0 0;">درباره</a>
+	{% endif %}
+	
+	{% if page.url == "/blog" %}
+	<span class="nav-current-page" >بلاگ</span>
+	{% else %}
+	<a href="/blog" title="Blog">بلاگ</a>
+	{% endif %}
 	
 	
 	<!-- Global site tag (gtag.js) - Google Analytics -->
