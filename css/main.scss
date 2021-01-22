@@ -74,8 +74,7 @@ $text-width: 40.5em; // 650px
 
 :root {
   --body-font-size: 1.1rem; // 20px 1.25rem
-  //--line-height: 1.75rem; // 28px 1.75rem
-  --line-height: 1.875rem;
+  --line-height: 1.75rem; // 28px 1.75rem
   --h1-font-size: 1.875rem; // 30px
   --h2-font-size: 1.125rem; //20px; 
 }
@@ -223,7 +222,8 @@ h2, h3 {
   font-family: $heading-typeface;
   font-size: var(--h2-font-size);
   letter-spacing: .05em;
-  line-height: 1.2;
+  //line-height: 1.2;
+  line-height: 1.4;
   margin: calc(var(--line-height) * 2) 0 calc(var(--line-height) * 1) 0;
   text-transform: uppercase;
 }
