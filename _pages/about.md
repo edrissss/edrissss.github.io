@@ -54,7 +54,7 @@ nav: about
 فعلا همینا به ذهنم می‌رسه راجع بهش.  
 اگه بیشتر می‌خوای بخونی شاید این دوتا لینک هم مفید باشن:  
 [درباره‌ی ادریسِ یک سال پیش](https://virgool.io/edrism/%D8%B3%D9%84%D8%A7%D9%85-wkiqotsnz0mt)   
-[ورودی‌های مغز ادریس](https://virgool.io/edrism/%D8%B3%D8%B1%DA%86%D8%B4%D9%85%D9%87-%D9%87%D8%A7-goy1fyyyz8du)   
+[ورودی‌های چند سال اخیر مغز ادریس](https://virgool.io/edrism/%D8%B3%D8%B1%DA%86%D8%B4%D9%85%D9%87-%D9%87%D8%A7-goy1fyyyz8du)   
 
 ## تماس با من 
 
