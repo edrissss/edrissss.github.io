@@ -228,4 +228,6 @@ permalink: /atomic-habits
 
 **[چطور به زندگی شلخته نظم می‌دهم](https://virgool.io/edrism/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B1%DB%8C%D8%B2%DB%8C-%D8%A8%D8%A7-%D8%A8%D9%88%D9%84%D8%AA-%DA%98%D9%88%D8%B1%D9%86%D8%A7%D9%84-wjdu7ywb0v8l) (ایده‌هایی برای آرامش و تمرکز بیشتر)**  
 **[با متمم تا عید نوروز](http://mrshabanali.com/category/%D8%A8%D8%A7-%D9%85%D8%AA%D9%85%D9%85-%D8%AA%D8%A7-%D8%B9%DB%8C%D8%AF-%D9%86%D9%88%D8%B1%D9%88%D8%B2/) (سلسله پست‌هایی راجع به برنامه‌ریزی)**  
-**[درباره‌ی تکنیک پومودورو و زنجیره‌ی عادات ساینفیلد](https://sadra.blog/pomodoro/) (تکنیک‌های برای مقابله با تنبلی)**
+**[درباره‌ی تکنیک پومودورو و زنجیره‌ی عادات ساینفیلد](https://sadra.blog/pomodoro/) (تکنیک‌های برای مقابله با تنبلی)**  
+**[Productivity](https://blog.samaltman.com/productivity/) (یک بلاگ پست از سم آلتمن)**  
+**[Every productivity thought I've ever had, as concisely as possible](https://guzey.com/productivity/) (یکی از خوبی‌های این وبلاگ اینه که به کلی جای دیگه لینک داده.)**  
