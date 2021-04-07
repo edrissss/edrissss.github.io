@@ -2,7 +2,7 @@
 title: درباره‌ی کتاب Atomic Habits
 description: 
 tags: کتاب‌ها
-permalink: /atomic-habits
+permalink: /atomic-habitsjjjj
 ---
 
 توی این سری نوشته‌ها قراره راجع به کتاب‌هایی که خوندم حرف بزنم.  
